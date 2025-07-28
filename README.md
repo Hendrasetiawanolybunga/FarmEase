@@ -33,7 +33,7 @@ FarmEase menyediakan modul-modul esensial untuk mendukung aktivitas pertanian ha
 
 ## 🚀 Teknologi yang Digunakan
 
-* **Backend:** [PHP](https://www.php.net/) dengan [Laravel 11](https://laravel.com/)
+* **Backend:** [PHP](https://www.php.net/) dengan [Laravel 12](https://laravel.com/)
 * **Database:** [SQLite](https://www.sqlite.org/index.html) (mode pengembangan), siap untuk [MySQL](https://www.mysql.com/)
 * **Frontend:**
     * [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -58,7 +58,7 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda:
 
 1.  **Kloning Repositori:**
     ```bash
-    git clone [https://github.com/USERNAME_ANDA/FarmEase.git](https://github.com/USERNAME_ANDA/FarmEase.git)
+    git clone [https://github.com/Hendrasetiawanolybunga/FarmEase.git](https://github.com/Hendrasetiawanolybunga/FarmEase.git)
     cd FarmEase
     ```
 2.  **Instal Dependensi Composer:**
